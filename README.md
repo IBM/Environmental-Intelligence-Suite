@@ -33,4 +33,4 @@ Example | Description                                                           
 [Historical Difference AGB](geospatial_analytics/v4_apis/samples/industry_use_cases/disaster_events_deforestation/historical_difference_in_agb.ipynb) | Above Ground Biomass (AGB) can be used to find out how much the AGB cover has changed over the years for various use case like measuring deforestation, wildfires etc. | Disaster Events
 
 ## Historical Weather On Demand 
-Refer samples for [Historical Weather On Demand - Direct](historical_weather_on_demand/samples/quickstart/historical_weather_on_demand_direct.ipynb).
+Refer samples for [Historical Weather On Demand - Direct](historical_weather_on_demand/samples/quickstart/historical_weather_on_demand_direct/historical_weather_on_demand_direct.ipynb).
