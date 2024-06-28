@@ -8,7 +8,8 @@ If you like to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md)
 first. A list of maintainers is recorded in [MAINTAINERS.md](MAINTAINERS.md).
 
 ## Geospatial Analytics
-For documentation and tutorials regarding how to use the ibmpairs SDK for Geospatial Analytics, please consult the [official documentation](https://pairs.res.ibm.com/tutorial).
+For documentation and tutorials regarding how to use the ibmpairs SDK for Geospatial Analytics, please consult the [official 
+documentation](https://ibm.github.io/ibmpairs/).
 
 Refer to the samples below for various industry use cases of Geospatial Analytics.
 
@@ -33,4 +34,5 @@ Example | Description                                                           
 [Historical Difference AGB](geospatial_analytics/v4_apis/samples/industry_use_cases/disaster_events_deforestation/historical_difference_in_agb.ipynb) | Above Ground Biomass (AGB) can be used to find out how much the AGB cover has changed over the years for various use case like measuring deforestation, wildfires etc. | Disaster Events
 
 ## Historical Weather On Demand 
-Refer samples for [Historical Weather On Demand - Direct](historical_weather_on_demand/samples/quickstart/historical_weather_on_demand_direct/historical_weather_on_demand_direct.ipynb).
+Refer to the samples for [Historical Weather On Demand - 
+Direct](historical_weather_on_demand/samples/quickstart/historical_weather_on_demand_direct/historical_weather_on_demand_direct.ipynb).
