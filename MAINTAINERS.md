@@ -8,6 +8,7 @@ Repository Maintainers:
 - Ivan Lew (IvanLew)
 - Shawn Koczarski
 - Steffan J. Taylor (taylorsteffanj)
+- Patrick Dantressangle (patdantress)
 
 Notebook Maintainers:
 
@@ -19,8 +20,10 @@ Notebook Maintainers:
   - Rahul Phadnis (rphadnis)
   - Raunak Bhansali (bhansaliraunak)
   - Srikanth Chowdari Tallapaneni (srikanthtallapaneni)
+  - Bogdan Vlaicu (bvlaicu)
 - Geospatial
   - Neha Anil (Neha-Anil)
   - Rahul Phadnis (rphadnis)
   - Raunak Bhansali (bhansaliraunak)
   - Srikanth Chowdari Tallapaneni (srikanthtallapaneni)
+  - Kiran Patel (kiranp2396)
