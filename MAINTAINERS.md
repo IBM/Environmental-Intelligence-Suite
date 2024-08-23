@@ -9,6 +9,7 @@ Repository Maintainers:
 - Shawn Koczarski
 - Steffan J. Taylor (taylorsteffanj)
 - Patrick Dantressangle (patdantress)
+- Sushain Pandit (sushain-pandit)
 
 Notebook Maintainers:
 
