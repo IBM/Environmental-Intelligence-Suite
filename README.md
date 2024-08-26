@@ -43,3 +43,26 @@ Refer to the samples for:
 [Historical Weather On Demand - Direct API](historical_weather_on_demand/samples/quickstart/historical_weather_on_demand_direct/historical_weather_on_demand_direct.ipynb)
 
 [Historical Weather On Demand - HDAT API](historical_weather_on_demand/samples/quickstart/historical_weather_on_demand_hdat/historical_weather_on_demand_hdat.ipynb)
+
+
+## GHG Emissions
+
+Refer to the samples for:
+
+#### Scope 1
+
+[Stationary Emission API](ghg_emissions/samples/core_examples/scope1/stationary_emission.ipynb)
+
+[Fugitive Emission API](ghg_emissions/samples/core_examples/scope1/fugitive_emission.ipynb)
+
+[Mobile Emission API](ghg_emissions/samples/core_examples/scope1/mobile_emission.ipynb)
+
+#### Scope 2
+
+[Location Based Emission API](ghg_emissions/samples/core_examples/scope2/location_based_emission.ipynb)
+
+[Market Based Emission API](ghg_emissions/samples/core_examples/scope2/market_based_emission.ipynb)
+
+#### Scope 3
+
+[Transportation and Distribution Based Emission API](ghg_emissions/samples/core_examples/scope3/transportation_and_distribution_emission.ipynb)
