@@ -16,6 +16,7 @@ Notebook Maintainers:
 - Green House Gas Emissions:
   - Dario Chimisso (Dariochi-ibm)
   - Ivan Gualandri (inuyasha82)
+  - Santhosh Ramalingam T (santhosh0703)
 - Historical Weather on Demand:
   - Neha Anil (Neha-Anil)
   - Rahul Phadnis (rphadnis)
