@@ -47,7 +47,7 @@ Refer to the samples for:
 
 ## GHG Emissions
 
-Refer to the samples for:
+Refer to the core samples for:
 
 #### Scope 1
 
@@ -66,3 +66,12 @@ Refer to the samples for:
 #### Scope 3
 
 [Transportation and Distribution Based Emission API](ghg_emissions/samples/core_examples/scope3/transportation_and_distribution_emission.ipynb)
+
+Refer to the samples below for various industry use cases of Greenhouse Gas (GHG) Emissions APIs 
+
+Example | Description                                                                                                                                                            | Scope
+--------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------
+[Carbon Aware Crew Scheduling](ghg_emissions/samples/industry_use_cases/scope1/sustainable_crew_scheduling/carbon_aware_crew_scheduling.ipynb) |Evaluate the vehicle's emissions based on fuel usage which can help to estimate carbon impact of different routes for crew scheduling while full-filling the work orders using GHG Mobile Emissions API. | 1
+[Environmental Impact of Power Plants](ghg_emissions/samples/industry_use_cases/scope1/environmental_impact_of_power_plant/power_plant.ipynb) |The primary focus of this sample will be on calculating emissions for different fuel types (e.g., coal, natural gas, oil) used in Power Plants based on a given energy consumption using the GHG Stationary Emission API. | 1
+[Datacenter Emissions](ghg_emissions/samples/industry_use_cases/scope2/datacenter_emission_capture/datacenter_emission_capture.ipynb) |This use case demonstrates that by understanding the datacenter emissions using  the GHG Location and Market API , datacenter operators can assess their environmental impact for reporting and identify opportunities for emissions reduction.| 2
+[Freight Transport Emission](ghg_emissions/samples/industry_use_cases/scope3/freight_transport_emission_capture/freight_transport_emission_capture.ipynb) |This use case utilizes the Fuel Use and Vehicle Distance, Vehicle Distance, and Weight Distance methods to showcase the GHG Transportation and Distribution API used effectively for different data availablity scenarios.| 2
