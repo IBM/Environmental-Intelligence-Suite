@@ -51,21 +51,21 @@ Refer to the core samples for:
 
 #### Scope 1
 
-[Stationary Emission API](ghg_emissions/samples/core_examples/scope1/stationary_emission.ipynb)
+[Stationary Emission API](ghg_emissions/tutorials/scope1/stationary_emission.ipynb)
 
-[Fugitive Emission API](ghg_emissions/samples/core_examples/scope1/fugitive_emission.ipynb)
+[Fugitive Emission API](ghg_emissions/tutorials/scope1/fugitive_emission.ipynb)
 
-[Mobile Emission API](ghg_emissions/samples/core_examples/scope1/mobile_emission.ipynb)
+[Mobile Emission API](ghg_emissions/tutorials/scope1/mobile_emission.ipynb)
 
 #### Scope 2
 
-[Location Based Emission API](ghg_emissions/samples/core_examples/scope2/location_based_emission.ipynb)
+[Location Based Emission API](ghg_emissions/tutorials/scope2/location_based_emission.ipynb)
 
-[Market Based Emission API](ghg_emissions/samples/core_examples/scope2/market_based_emission.ipynb)
+[Market Based Emission API](ghg_emissions/tutorials/scope2/market_based_emission.ipynb)
 
 #### Scope 3
 
-[Transportation and Distribution Based Emission API](ghg_emissions/samples/core_examples/scope3/transportation_and_distribution_emission.ipynb)
+[Transportation and Distribution Based Emission API](ghg_emissions/tutorials/scope3/transportation_and_distribution_emission.ipynb)
 
 Refer to the samples below for various industry use cases of Greenhouse Gas (GHG) Emissions APIs 
 
