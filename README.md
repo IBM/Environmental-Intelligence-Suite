@@ -45,6 +45,12 @@ Refer to the samples for:
 
 [Historical Weather On Demand - HDAT API](historical_weather_on_demand/samples/quickstart/historical_weather_on_demand_hdat/historical_weather_on_demand_hdat.ipynb)
 
+Refer to the samples below for various industry use cases of HoD APIs.
+
+Example | Description                                                                                                                                                                                                                                                                            | Industry
+--------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------
+[Snowfall removal Budget Analysis](historical_weather_on_demand/samples/industry_use_cases/snowfall_removal_budget.ipynb) | Snowfall removal Budget Analysis is used to compare the monthly snowfall with historic monthly snowfall average using History on Demand (HoD) Direct API and calculate the costs incurred for snow removal for that month. | Transportation and Infrastructure Management
+
 
 ## GHG Emissions
 
