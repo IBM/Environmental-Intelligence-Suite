@@ -11,7 +11,7 @@ Consider taking our free training course on [Environmental Intelligence: Geospat
 If you like to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md)
 first. A list of maintainers is recorded in [MAINTAINERS.md](MAINTAINERS.md).
 
-## Geospatial APIs
+## Geospatial APIs 
 For documentation and tutorials regarding how to use the `ibmpairs` SDK for Geospatial APIs, please consult the [official documentation](https://ibm.github.io/ibmpairs/).
 
 Refer to the samples below for various industry use cases of Geospatial APIs.
