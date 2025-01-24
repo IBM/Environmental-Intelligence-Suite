@@ -1,0 +1,15 @@
+This repository folder contains Data Set samples.
+
+<b>List of the Data Sets</b>
+
+Name | | Description
+--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------
+[PRISM daily US weather](prism_daily_prs/prism_daily_prs_dataset.ipynb)| | The data is issued in 3 versions of increasing quality. These are issued on an irregular schedule. Newer, better, data overwrites the previous versions.|
+[USGS basic land elevation data](ned_elevation/ned_elevation_dataset.ipynb)| | Basic land elevation data from the National Elevation Dataset (NED) of the United States Geological Survey (USGS).|
+[Monthly seasonal forecasts](twc_seasonal_weather_forecast/twc_seasonal_weather_forecast_dataset.ipynb)| | Seasonal forecasts that include maximum, minimum and average temperature, and total precipitation forecasts. Forecasts are produced at monthly intervals from February 1981 to present.|
+[CMIP global climate models](global_climate_models_cmip6/global_climate_models_cmip6_dataset.ipynb)| | Climate simulations from approximately 100 distinct climate models across 49 modelling groups provide a set of coordinated climate model experiments.|
+[GFS latest 16 day forecast](gfs_forecast/gfs_forecast_dataset.ipynb)| | Numerical weather prediction system that contains a global computer model and variational analysis from the United States National Weather Service (NWS).
+[Climatologies and validation data](research_2944_climatologies/research_2944_climatologies_dataset.ipynb)| | The climatology was calculated by the IBM Future of Climate team from ERA5 data spanning 1991-2020. The methodology similar for that used in the ERA-interim climatology. See the linked references by Jung and Leutbecher as well as Janoušek. That is, a 61 day weighted rolling window with the weights decreasing linearly from their maximum value at the center of the window to zero at +-30 days. This is in contrast to those references (and the ERA-interim climatology), where weights are determined by second-order polynomial.|
+[Sentinel 2 high resolution imagery](esa_sentinel_2_l2a/esa_sentinel_2_l2a_dataset.ipynb)| | Images from the European Space Agency (ESA) Sentinel 2 pair of satellites that view land surface regions.|
+[USDA soil properties](us_soil_properties/us_soil_properties_dataset.ipynb)| | It contains information about soil as collected by the National Cooperative Soil Survey over the course of a century. It is available for most areas in the United States and the Territories, Commonwealths, and Island Nations served by the USDA-NRCS. The survey data was gathered by walking over the land and observing the soil. Many soil samples were analyzed in laboratories. |
+[Current and historical weather](twc_gcod_data/twc_gcod_data_dataset.ipynb)| | This dataset provides high-resolution, hourly global weather data at a 4km grid resolution. It includes both current and historical weather data, covering landmasses and coastal waterways. |
