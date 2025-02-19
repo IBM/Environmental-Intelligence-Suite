@@ -17,3 +17,9 @@ Refer to the samples below for various industry use cases of Geospatial APIs Abo
 Example | Description                                                                                                                                                            | Industry
 --------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------
 [Historical Difference AGB](samples/v4/disaster_events_deforestation/calculate_wildfire_impact_agb.ipynb) | Above Ground Biomass (AGB) can be used to find out how much the AGB cover has changed over the years for various use case like measuring deforestation, wildfires etc. | Disaster Events
+
+Refer to the below sample to gauge the usage of Geospatial APIs Above Ground Biomass (AGB)
+
+Example |        Description
+--------|  ----------------------------------------------------------------------------------------------------------------------------------------------
+[Usage Estimation](samples/v4/usage_estimation/estimate_usage_above_ground_biomass.ipynb) |  Estimate the usage in bytes for an Above Ground Biomass query, based on the specified spatial and temporal ranges
