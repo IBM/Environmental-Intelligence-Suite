@@ -7,21 +7,3 @@ Example | Description                                                           
 [TWC Seasonal Forecast Weather Prediction](samples/v3/weather_forecast/forecast_7m_weather_outlook_nyc.ipynb) | TWC Seasonal Forecast (SPFP) provides essential insights into anticipated weather patterns over the coming months, aiding industries in strategic planning and decision-making | Climate Change, Weather Forecast
 [Cloud Free Normalized Difference Vegetation Index (NDVI)](samples/v3/cloudfree_ndvi/monitor_vegetation_ndvi.ipynb) | Cloud Free NDVI provides accurate, continuous data on vegetation health, density, and seasonal changes by eliminating cloud interference in satellite images | Cloud Free Imagery, Agriculture Monitoring
 [TWC Seasonal Forecast Weather Prediction Backtesting](samples/v3/weather_forecast/twcPredictionAndActualComparison.ipynb) | This notebook is for backtesting our model's predictions and is designed to extract and visualize weather forecasts using the Monthly seasonal forecasts data and actual weather data from datasets like Prism, Twc, Era5 through the IBM Environmental Intelligence(EI): Geospatial APIs Python SDK (SDK).| Climate Change, Weather Forecast
-## Geospatial APIs Above Ground Biomass (AGB)
-
-To know the basics of Geospatial APIs Above Ground Biomass (AGB) Dataset, start with the [Catalog - General](tutorials/v3/catalog/general.ipynb) notebook.
-
-To get an understanding of the Geospatial APIs Above Ground Biomass (AGB) Raster query, AGB Species Agnostic and AGB Species Specific usage start with the [Above Ground Biomass](tutorials/v4/quickstart/above_ground_biomass.ipynb) notebook.
-
-Refer to the samples below for various industry use cases of Geospatial APIs Above Ground Biomass (AGB)
-
-Example | Description                                                                                                                                                            | Industry
---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------
-[Historical Difference AGB](samples/v4/disaster_events_deforestation/calculate_wildfire_impact_agb.ipynb) | Above Ground Biomass (AGB) can be used to find out how much the AGB cover has changed over the years for various use case like measuring deforestation, wildfires etc. | Disaster Events
-
-Refer to the below sample to gauge the usage of Geospatial APIs Above Ground Biomass (AGB)
-
-Example |        Description
---------|  ----------------------------------------------------------------------------------------------------------------------------------------------
-[Usage Estimation](samples/v4/usage_estimation/estimate_usage_above_ground_biomass.ipynb) |  Estimate the usage in bytes for an Above Ground Biomass query, based on the specified spatial and temporal ranges
-[Usage Estimation](samples/v3/usage_estimation/estimate_usage_above_ground_biomass.ipynb) |  Estimate the usage in bytes for a V3 query, based on the specified spatial and temporal ranges

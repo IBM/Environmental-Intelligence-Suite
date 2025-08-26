@@ -1,10 +1,6 @@
-# IBM Environmental Intelligence
+# IBM Environmental Intelligence Suite
 
-This repository contains sample applications of [IBM Environmental Intelligence](https://www.ibm.com/products/environmental-intelligence) - a platform designed to empower data scientists and application developers with environmental data and insights. 
-
-Sign up for a [free preview](https://www.ibm.com/account/reg/us-en/signup?formid=urx-52894) to receive API credentials for working with the samples below. 
-
-Consider taking our free training course on [Environmental Intelligence: Geospatial APIs for Data Scientists and Application Developers](https://www.ibm.com/training/course/environmental-intelligence-geospatial-apis-for-data-scientists-and-application-developers-DL25641G) for an introduction to IBM's Environmental Intelligence API and industry use cases.
+This repository contains sample applications of IBM Environmental Intelligence Suite - a platform designed to empower data scientists and application developers with environmental data and insights.
 
 ### General Notes
 
