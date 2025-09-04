@@ -1,5 +1,5 @@
 
-# IBM Environmental Intelligence - History on Demand
+# IBM Environmental Intelligence Suite- History on Demand
 
 The History on Demand (HoD) APIs provide the historical context about the weather that you need to extrapolate relationships and make correlations with your past business and operational results. In this way, the HoD APIs can help you to predict future business needs and outcomes.
 
