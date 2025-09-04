@@ -1,6 +1,6 @@
 # MAINTAINERS
 
-This project relates to [IBM Environmental Intelligence](https://www.ibm.com/products/environmental-intelligence) which is maintained by the group [*Sustainability 
+This project relates to [IBM Environmental Intelligence Suite](https://www.ibm.com/products/environmental-intelligence) which is maintained by the group [*Sustainability 
 Software* at IBM Software, IBM Corp.](https://www.ibm.com/sustainability), particularly:
 
 Repository Maintainers:
